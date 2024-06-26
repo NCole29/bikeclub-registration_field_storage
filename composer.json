@@ -1,6 +1,6 @@
 {
     "name": "bikeclub/bikeclub-registration_field_storage",
-    "description": "Installs field storage for registration fields used by Events and Rides.",
+    "description": "Installs storage for registration fields used by Events and Rides.",
     "keywords": ["recipe", "Page access"],
     "type": "drupal-recipe",
     "license": "GPL-2.0-or-later",

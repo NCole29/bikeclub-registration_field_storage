@@ -1,5 +1,5 @@
 name: 'Registration field storage'
-description: 'Installs field storage for registration fields used by Events and Rides.'
+description: 'Installs storage for registration fields used by Events and Rides.'
 type: 'Field storage'
 install:
   - link
